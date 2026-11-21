@@ -15,6 +15,7 @@ import os
 import re
 import sys
 import tempfile
+import time
 from pathlib import Path
 
 SCOPE = "https://www.googleapis.com/auth/youtube.force-ssl"
@@ -77,9 +78,9 @@ def metadata_body(existing, record):
         raise SafeError("Existing categoryId is required; refusing to invent or remove it")
     localizations = copy.deepcopy(existing.get("localizations", {}))
     localizations["en"] = {"title": record["title_en"], "description": record["description_en"]}
-    # Keep an existing explicit Chinese localization consistent with the default.
-    if "zh-Hant" in localizations:
-        localizations["zh-Hant"] = {"title": record["title_zh"], "description": record["description_zh"]}
+    # YouTube mirrors the default-language localization from snippet on readback.
+    # Match that representation so reruns do not rewrite identical metadata.
+    localizations["zh-Hant"] = {"title": snippet["title"], "description": snippet["description"]}
     validate_text(snippet["title"], snippet["description"])
     for item in localizations.values():
         validate_text(item["title"], item["description"])
@@ -208,6 +209,18 @@ def owned_video(api, video_id, channel_id):
     return found[0]
 
 
+def verify_metadata(api, video_id, channel_id, desired):
+    # YouTube list responses can briefly retain pre-update translations.
+    # Retry only these reads; never repeat the mutation to chase stale reads.
+    for delay in (0, 1, 2, 4, 8, 10):
+        if delay:
+            time.sleep(delay)
+        after = owned_video(api, video_id, channel_id)
+        if not metadata_changed(after, desired):
+            return after
+    raise SafeError(f"Metadata verification is still pending for {video_id}; reconcile on the next run")
+
+
 class Journal:
     def __init__(self, path):
         self.path = Path(path)
@@ -234,6 +247,18 @@ class Journal:
         return result
 
 
+def read_managed_playlist(api, playlist_id, channel_id):
+    for delay in (0, 1, 2, 4, 8, 10):
+        if delay:
+            time.sleep(delay)
+        found = api.playlists().list(part="snippet,localizations", id=playlist_id).execute().get("items", [])
+        if len(found) == 1:
+            if found[0]["snippet"].get("channelId") != channel_id:
+                raise SafeError("Managed playlist belongs to another channel")
+            return found[0]
+    raise SafeError("Managed playlist readback is still pending; no additional playlist was created")
+
+
 def ensure_playlist(api, journal, channel_id, record):
     marker = f"[SmartAction playlist:{record['key']}]"
     def discover():
@@ -245,23 +270,19 @@ def ensure_playlist(api, journal, channel_id, record):
     def create():
         title = record["title_zh"]
         body = {"snippet": {"title": title, "description": descriptions(record) + "\n\n" + marker,
-                            "defaultLanguage": "zh-Hant"}, "status": {"privacyStatus": "unlisted"},
+                            "defaultLanguage": "zh-Hant"}, "status": {"privacyStatus": record.get("privacyStatus", "unlisted")},
                 "localizations": {"en": {"title": record["title_en"], "description": record["description_en"]}}}
         validate_text(title, body["snippet"]["description"])
         return api.playlists().insert(part="snippet,status,localizations", body=body).execute()["id"]
     playlist_id = journal.insert_once(f"playlist:{channel_id}:{record['key']}", discover, create)
     # A discovered playlist may have an older title or explanation. Preserve
     # visibility and unrelated translations while reconciling managed metadata.
-    found = api.playlists().list(part="snippet,localizations", id=playlist_id).execute().get("items", [])
-    if len(found) != 1 or found[0]["snippet"].get("channelId") != channel_id:
-        raise SafeError("Managed playlist is missing or belongs to another channel")
-    original = found[0]
+    original = read_managed_playlist(api, playlist_id, channel_id)
     snippet = {"title": record["title_zh"], "description": descriptions(record) + "\n\n" + marker,
                "defaultLanguage": "zh-Hant"}
     localizations = copy.deepcopy(original.get("localizations", {}))
     localizations["en"] = {"title": record["title_en"], "description": record["description_en"]}
-    if "zh-Hant" in localizations:
-        localizations["zh-Hant"] = {"title": record["title_zh"], "description": record["description_zh"]}
+    localizations["zh-Hant"] = {"title": snippet["title"], "description": snippet["description"]}
     validate_text(snippet["title"], snippet["description"])
     for localized in localizations.values():
         validate_text(localized["title"], localized["description"])
@@ -347,13 +368,14 @@ def sync(api, journal, channel_id, catalog, catalog_path):
         if metadata_changed(originals[vid], body):
             journal.set(f"metadata:{vid}", status="pending", before=originals[vid])
             api.videos().update(part="snippet,localizations", body=body).execute()
-            after = owned_video(api, vid, channel_id)
-            if metadata_changed(after, body):
-                raise SafeError(f"Metadata verification failed for {vid}")
+            verify_metadata(api, vid, channel_id, body)
             journal.set(f"metadata:{vid}", status="done")
             changed = True
         else:
             changed = False
+            previous = journal.get(f"metadata:{vid}")
+            if previous and previous.get("status") == "pending":
+                journal.set(f"metadata:{vid}", status="done", reconciled=True)
         captions = []
         for caption in record.get("captions", []):
             if caption.get("reviewed") is True:

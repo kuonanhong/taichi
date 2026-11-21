@@ -5,3 +5,8 @@ token*.json
 journal*.json
 *.lock
 inventory*.json
+
+# Local speech models, audio and unreviewed drafts
+asr-venv/
+asr-private/
+models/

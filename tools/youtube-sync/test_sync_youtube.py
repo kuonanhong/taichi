@@ -41,6 +41,25 @@ class MetadataTests(unittest.TestCase):
         observed = {**copy.deepcopy(self.existing), **desired}
         self.assertFalse(tool.metadata_changed(observed, desired))
 
+    def test_default_localization_matches_youtube_snippet_mirror(self):
+        desired = tool.metadata_body(self.existing, record())
+        observed = {**copy.deepcopy(self.existing), **copy.deepcopy(desired)}
+        observed["localizations"]["zh-Hant"] = {
+            "title": desired["snippet"]["title"],
+            "description": desired["snippet"]["description"],
+        }
+        self.assertFalse(tool.metadata_changed(observed, desired))
+
+    def test_eventually_consistent_readback_retries_reads_without_repeating_write(self):
+        from unittest.mock import patch
+        desired = tool.metadata_body(self.existing, record())
+        observed = {**copy.deepcopy(self.existing), **copy.deepcopy(desired)}
+        with patch.object(tool, "owned_video", side_effect=[self.existing, observed]) as read:
+            with patch.object(tool.time, "sleep") as sleep:
+                self.assertEqual(tool.verify_metadata(None, "video", "channel", desired), observed)
+        self.assertEqual(read.call_count, 2)
+        sleep.assert_called_once_with(1)
+
     def test_unreviewed_records_cannot_mutate(self):
         api = MagicMock()
         api.channels().list().execute.return_value = {"items": [{"id": "channel", "snippet": {"title": "Ours"}}]}
@@ -101,6 +120,15 @@ class CaptionTests(unittest.TestCase):
 
 
 class JournalTests(unittest.TestCase):
+    def test_new_playlist_missing_from_first_read_does_not_trigger_another_insert(self):
+        from unittest.mock import patch
+        api = MagicMock()
+        expected = {"id": "playlist", "snippet": {"channelId": "channel"}}
+        api.playlists().list().execute.side_effect = [{"items": []}, {"items": [expected]}]
+        with patch.object(tool.time, "sleep"):
+            self.assertEqual(tool.read_managed_playlist(api, "playlist", "channel"), expected)
+        api.playlists().insert.assert_not_called()
+
     def test_existing_playlist_updates_bilingual_metadata_without_visibility_changes(self):
         playlist = {"key": "warmup", "title_zh": "熱身", "title_en": "Warm-up", "description_zh": "暖身說明。", "description_en": "Warm-up notes."}
         original = {"id": "playlist1", "snippet": {"title": "Old", "description": "[SmartAction playlist:warmup]", "channelId": "channel"},
