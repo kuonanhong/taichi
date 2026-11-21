@@ -35,3 +35,16 @@ asr-venv/bin/python transcribe_drafts.py --inputs asr-private/inputs.json --out 
 自動信心分數只是協助排序，不能當成字幕已正確的證明。保留不清楚的地方供回聽，不把片名或一般動作介紹填成老師的發言。英文字幕應翻譯已核對的中文稿並保留對應時間碼。
 
 模型、音檔、含本機路徑的輸入清單及未校訂稿留在本機。官方模型採 TRAIL 授權，發布使用機器產生的內容時，應明確標示 AI 輔助語音辨識及校訂狀態。不要把模型權重或原音直接放入公開 GitHub。
+
+## 國台語混合與本機校對頁
+
+使用者於 2026-11-22 確認本班是國語、台語混合。官方模型以 `language=zh` 接收這種混合語音，不能將不存在的 `nan` token 傳給此模型；目標為繁體中文字幕，再由確認後的中文翻譯英文。語言設定記錄在 `spoken-language-profile.json`。
+
+本機校對頁支援慢速播放、逐句時間碼、中文校訂及 SRT／JSON 匯出。英文可以留白，先確認中文。工具不會自動把辨識稿標為已校對，也不會呼叫 YouTube。
+
+```bash
+python3 build_caption_review.py --inputs asr-private/inputs.json --out asr-private/review --video-id aAxfSSazhhU
+python3 -m http.server 8919 --bind 127.0.0.1 --directory asr-private/review
+```
+
+再用瀏覽器開啟 `http://127.0.0.1:8919/`。輸入檔使用本節前述本機音訊清單；建立工具會核對 videoId 與公開 catalog 對應，有提供來源 SHA 時也會核對。此校對資料夾含原音與未確認文字，工具會拒絕直接放進 `video-library` 或 `public` 目錄。下載校訂紀錄 JSON 或已確認 SRT 後，可沿用原 YouTube videoId 加字幕，無須重新輸出影片。

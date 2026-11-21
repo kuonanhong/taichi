@@ -1,0 +1,14 @@
+{
+  "confirmedDate": "2026-11-22",
+  "source": "user confirmation",
+  "spokenLanguages": [
+    "Taiwan Mandarin",
+    "Taiwanese Hokkien"
+  ],
+  "speechPattern": "code-switching",
+  "chineseSubtitleLanguage": "zh-Hant",
+  "englishSubtitleLanguage": "en",
+  "chineseRendering": "Traditional Chinese; preserve meaning when Taiwanese is rendered in Mandarin Chinese",
+  "existingYouTubeVideoIdsPreserved": true,
+  "publishOnlyVerifiedTimedCaptions": true
+}
