@@ -1,0 +1,790 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-11-19",
+  "preparedAt": "2026-11-21",
+  "sourcePlaylistId": "PLSFQlDsijCrs",
+  "status": "draft; no remote writes performed",
+  "scopeNote_zh": "依2026-11-19本機已核對的29支公開影片快照製作，不宣稱包含後續新增、隱藏或無法播放的影片。",
+  "scopeNote_en": "Prepared from the 29-video local snapshot verified on 2026-11-19; later additions, hidden and unavailable entries are not represented.",
+  "playlists": [
+    {
+      "key": "opening",
+      "title_zh": "太極第一式｜開步預備",
+      "title_en": "Opening Form | Preparing to Step",
+      "description_zh": "從開步預備建立站姿與動作節奏。先觀察腳下支撐、身體方向與起步時機，再依老師指導把動作連起來。",
+      "description_en": "Begin with preparation, stance and timing. Observe foot support, body orientation and the opening step, then connect the movement with the instructor’s guidance.",
+      "reviewed": false
+    },
+    {
+      "key": "steps",
+      "title_zh": "太極步｜貓步前進與倒退",
+      "title_en": "Tai Chi Stepping | Forward and Backward Cat Steps",
+      "description_zh": "把貓步前進與倒退拆成支撐、移重心與落腳，從容觀察腳步的虛實變化。",
+      "description_en": "Explore forward and backward cat stepping through support, weight transfer and foot placement, at a pace that makes each transition easier to observe.",
+      "reviewed": false
+    },
+    {
+      "key": "grasp-tail",
+      "title_zh": "太極第二式｜攬鵲尾",
+      "title_en": "Second Form | Grasp the Sparrow’s Tail",
+      "description_zh": "以攬鵲尾的掤、捋、擠、按為索引，探索手法、身體轉向與腳下支撐的連續配合。",
+      "description_en": "Explore Grasp the Sparrow’s Tail through Ward Off, Roll Back, Press and Push, connecting hand movements, body orientation and support from the feet.",
+      "reviewed": false
+    },
+    {
+      "key": "rehabilitation",
+      "title_zh": "太極拳｜復健與健康觀念",
+      "title_en": "Tai Chi | Rehabilitation and Health Concepts",
+      "description_zh": "從復健與健康觀念出發，認識太極練習的目標，整理適合帶回課堂或醫療諮詢的問題。",
+      "description_en": "Explore tai chi through rehabilitation and health concepts, and collect useful questions for your instructor or healthcare team.",
+      "reviewed": false
+    },
+    {
+      "key": "review",
+      "title_zh": "課堂複習｜太極步與第一、第二式",
+      "title_en": "Class Review | Stepping and Forms One and Two",
+      "description_zh": "重看太極步、開步預備與攬鵲尾，把課堂學過的片段連起來，每次複習選一個新的觀察重點。",
+      "description_en": "Revisit stepping, the opening preparation and Grasp the Sparrow’s Tail. Connect familiar class material and choose a fresh observation focus for each replay.",
+      "reviewed": false
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know",
+      "title": "NIH NCCIH: Tai Chi — What You Need To Know",
+      "supports": "General background, research limitations and health context; not evidence that each short clip delivers a clinical outcome."
+    },
+    {
+      "url": "https://www.nhs.uk/live-well/exercise/flexibility-exercises/",
+      "title": "NHS: Flexibility exercises",
+      "supports": "Comfortable, gradual flexibility practice; not a transcript or movement-by-movement account of these videos."
+    }
+  ],
+  "videos": [
+    {
+      "key": "uobpwT-1lpM",
+      "videoId": "uobpwT-1lpM",
+      "sourceFilename": null,
+      "title_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)7",
+      "title_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 7",
+      "summary_zh": "用不同觀察重點重看課堂複習，把步法與拳式連起來。",
+      "summary_en": "Replay the class review with a different focus each time, linking steps and forms.",
+      "description_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)7\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 7\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)7\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 7\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "review"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 7,
+      "descriptionBilingualUtf8Bytes": 2379
+    },
+    {
+      "key": "CDD2B4NNLRI",
+      "videoId": "CDD2B4NNLRI",
+      "sourceFilename": null,
+      "title_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)6",
+      "title_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 6",
+      "summary_zh": "用不同觀察重點重看課堂複習，把步法與拳式連起來。",
+      "summary_en": "Replay the class review with a different focus each time, linking steps and forms.",
+      "description_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)6\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 6\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)6\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 6\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "review"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 6,
+      "descriptionBilingualUtf8Bytes": 2379
+    },
+    {
+      "key": "ClBFPXB5-fk",
+      "videoId": "ClBFPXB5-fk",
+      "sourceFilename": null,
+      "title_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)5",
+      "title_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 5",
+      "summary_zh": "用不同觀察重點重看課堂複習，把步法與拳式連起來。",
+      "summary_en": "Replay the class review with a different focus each time, linking steps and forms.",
+      "description_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)5\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 5\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)5\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 5\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "review"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 5,
+      "descriptionBilingualUtf8Bytes": 2379
+    },
+    {
+      "key": "_hB2Nj7hURM",
+      "videoId": "_hB2Nj7hURM",
+      "sourceFilename": null,
+      "title_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)4",
+      "title_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 4",
+      "summary_zh": "用不同觀察重點重看課堂複習，把步法與拳式連起來。",
+      "summary_en": "Replay the class review with a different focus each time, linking steps and forms.",
+      "description_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)4\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 4\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)4\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 4\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "review"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 4,
+      "descriptionBilingualUtf8Bytes": 2379
+    },
+    {
+      "key": "GNm6NPaeLXs",
+      "videoId": "GNm6NPaeLXs",
+      "sourceFilename": null,
+      "title_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)3",
+      "title_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 3",
+      "summary_zh": "用不同觀察重點重看課堂複習，把步法與拳式連起來。",
+      "summary_en": "Replay the class review with a different focus each time, linking steps and forms.",
+      "description_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "review"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 3,
+      "descriptionBilingualUtf8Bytes": 2379
+    },
+    {
+      "key": "H0mc0jegJSY",
+      "videoId": "H0mc0jegJSY",
+      "sourceFilename": null,
+      "title_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)2",
+      "title_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 2",
+      "summary_zh": "用不同觀察重點重看課堂複習，把步法與拳式連起來。",
+      "summary_en": "Replay the class review with a different focus each time, linking steps and forms.",
+      "description_zh": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳複習太極步、第ㄧ、第二式(已打馬賽克)2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n用不同觀察重點重看課堂複習，把步法與拳式連起來。\n\n觀看指引：第一次看整段節奏，第二次看腳步，第三次再看手與身體如何銜接。需要時可以暫停、慢速播放，把想請教的地方記下來。先複習熟悉的部分，再把下一段慢慢接上。\n\n功效目標與原理：反覆觀看和小段複習，有助於整理動作順序與練習時的注意焦點。太極把拳術練習與身體覺察相連，從站姿到步法、從單式到連續動作，都可以用自己舒適的節奏逐步探索。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Review — Stepping and Forms 1–2 (Mosaic-labelled) — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nReplay the class review with a different focus each time, linking steps and forms.\n\nViewing guide: watch the overall rhythm first, the feet on a second replay, and the connection between arms and trunk on a third. Pause or slow the player when helpful, and note a question to take back to class. Begin with familiar material, then gradually connect the next section.\n\nLearning goals and background: repeated viewing and short reviews provide a structure for remembering the sequence and choosing a focus for practice. Tai chi links martial movement with body awareness. Explore the progression from stance to stepping, and from individual forms to connected movement, at a comfortable pace.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "review"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 2,
+      "descriptionBilingualUtf8Bytes": 2379
+    },
+    {
+      "key": "Y_wPoYAMXRo",
+      "videoId": "Y_wPoYAMXRo",
+      "sourceFilename": null,
+      "title_zh": "太極拳復健功效簡介7",
+      "title_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 7",
+      "summary_zh": "認識太極的健康練習目標，找到適合自己的參與方式。",
+      "summary_en": "Explore health-oriented tai chi goals and find a suitable way to take part.",
+      "description_zh": "太極拳復健功效簡介7\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 7\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳復健功效簡介7\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi — Introduction to Rehabilitation Benefits — Clip 7\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "rehabilitation"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 7,
+      "descriptionBilingualUtf8Bytes": 2397
+    },
+    {
+      "key": "BdwmvcBDZSk",
+      "videoId": "BdwmvcBDZSk",
+      "sourceFilename": null,
+      "title_zh": "太極拳復健功效簡介6",
+      "title_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 6",
+      "summary_zh": "認識太極的健康練習目標，找到適合自己的參與方式。",
+      "summary_en": "Explore health-oriented tai chi goals and find a suitable way to take part.",
+      "description_zh": "太極拳復健功效簡介6\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 6\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳復健功效簡介6\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi — Introduction to Rehabilitation Benefits — Clip 6\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "rehabilitation"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 6,
+      "descriptionBilingualUtf8Bytes": 2397
+    },
+    {
+      "key": "IUgskY4X_FI",
+      "videoId": "IUgskY4X_FI",
+      "sourceFilename": null,
+      "title_zh": "太極拳復健功效簡介5",
+      "title_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 5",
+      "summary_zh": "認識太極的健康練習目標，找到適合自己的參與方式。",
+      "summary_en": "Explore health-oriented tai chi goals and find a suitable way to take part.",
+      "description_zh": "太極拳復健功效簡介5\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 5\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳復健功效簡介5\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi — Introduction to Rehabilitation Benefits — Clip 5\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "rehabilitation"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 5,
+      "descriptionBilingualUtf8Bytes": 2397
+    },
+    {
+      "key": "apZfFoWsi_o",
+      "videoId": "apZfFoWsi_o",
+      "sourceFilename": null,
+      "title_zh": "太極拳復健功效簡介4",
+      "title_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 4",
+      "summary_zh": "認識太極的健康練習目標，找到適合自己的參與方式。",
+      "summary_en": "Explore health-oriented tai chi goals and find a suitable way to take part.",
+      "description_zh": "太極拳復健功效簡介4\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 4\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳復健功效簡介4\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi — Introduction to Rehabilitation Benefits — Clip 4\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "rehabilitation"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 4,
+      "descriptionBilingualUtf8Bytes": 2397
+    },
+    {
+      "key": "NJ4NjgQSPuk",
+      "videoId": "NJ4NjgQSPuk",
+      "sourceFilename": null,
+      "title_zh": "太極拳復健功效簡介3",
+      "title_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 3",
+      "summary_zh": "認識太極的健康練習目標，找到適合自己的參與方式。",
+      "summary_en": "Explore health-oriented tai chi goals and find a suitable way to take part.",
+      "description_zh": "太極拳復健功效簡介3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳復健功效簡介3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi — Introduction to Rehabilitation Benefits — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "rehabilitation"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 3,
+      "descriptionBilingualUtf8Bytes": 2397
+    },
+    {
+      "key": "m0ZLCMUnVtQ",
+      "videoId": "m0ZLCMUnVtQ",
+      "sourceFilename": null,
+      "title_zh": "太極拳復健功效簡介2",
+      "title_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 2",
+      "summary_zh": "認識太極的健康練習目標，找到適合自己的參與方式。",
+      "summary_en": "Explore health-oriented tai chi goals and find a suitable way to take part.",
+      "description_zh": "太極拳復健功效簡介2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳復健功效簡介2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi — Introduction to Rehabilitation Benefits — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "rehabilitation"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 2,
+      "descriptionBilingualUtf8Bytes": 2397
+    },
+    {
+      "key": "3bK53FYpwqw",
+      "videoId": "3bK53FYpwqw",
+      "sourceFilename": null,
+      "title_zh": "太極拳復健功效簡介1",
+      "title_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 1",
+      "summary_zh": "認識太極的健康練習目標，找到適合自己的參與方式。",
+      "summary_en": "Explore health-oriented tai chi goals and find a suitable way to take part.",
+      "description_zh": "太極拳復健功效簡介1\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi — Introduction to Rehabilitation Benefits — Clip 1\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極拳復健功效簡介1\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n認識太極的健康練習目標，找到適合自己的參與方式。\n\n觀看指引：留意介紹的練習目標、參與方式與調整方法。可記下具體問題，例如站姿如何簡化、哪些動作需要扶持、自己適合練多久，再與老師或物理治療師討論。\n\n功效目標與文化背景：太極由中國拳術發展而來，也逐漸成為健康促進與復健領域關注的身心運動。觀看這組介紹時，可把姿態、移動、呼吸與專注四個方向連在一起，思考如何安排持續、適合個人狀況的練習。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi — Introduction to Rehabilitation Benefits — Clip 1\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nExplore health-oriented tai chi goals and find a suitable way to take part.\n\nViewing guide: notice the exercise goals, ways to participate and possible adjustments. Collect practical questions: how could the stance be simplified, which movements need support, and what practice duration would suit you? Bring these questions to your instructor or physical therapist.\n\nLearning goals and cultural background: tai chi developed from Chinese martial arts and is also explored in health promotion and rehabilitation. Use this introduction to connect posture, movement, breathing and attention, and to think about a sustainable practice suited to your circumstances. Discuss individual rehabilitation goals and adaptations with your healthcare team.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "rehabilitation"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 1,
+      "descriptionBilingualUtf8Bytes": 2397
+    },
+    {
+      "key": "2tF-anXm3BQ",
+      "videoId": "2tF-anXm3BQ",
+      "sourceFilename": null,
+      "title_zh": "太極步貓步前進與倒退9",
+      "title_en": "Tai Chi Cat Steps — Forward and Backward — Clip 9",
+      "summary_zh": "把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。",
+      "summary_en": "Break forward and backward stepping into support, weight transfer and foot placement.",
+      "description_zh": "太極步貓步前進與倒退9\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Cat Steps — Forward and Backward — Clip 9\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極步貓步前進與倒退9\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Cat Steps — Forward and Backward — Clip 9\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "steps"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 9,
+      "descriptionBilingualUtf8Bytes": 2317
+    },
+    {
+      "key": "U8FlAEyvKG4",
+      "videoId": "U8FlAEyvKG4",
+      "sourceFilename": null,
+      "title_zh": "太極步貓步前進與倒退8",
+      "title_en": "Tai Chi Cat Steps — Forward and Backward — Clip 8",
+      "summary_zh": "把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。",
+      "summary_en": "Break forward and backward stepping into support, weight transfer and foot placement.",
+      "description_zh": "太極步貓步前進與倒退8\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Cat Steps — Forward and Backward — Clip 8\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極步貓步前進與倒退8\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Cat Steps — Forward and Backward — Clip 8\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "steps"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 8,
+      "descriptionBilingualUtf8Bytes": 2317
+    },
+    {
+      "key": "A_NWGsSh-T8",
+      "videoId": "A_NWGsSh-T8",
+      "sourceFilename": null,
+      "title_zh": "太極步貓步前進與倒退7",
+      "title_en": "Tai Chi Cat Steps — Forward and Backward — Clip 7",
+      "summary_zh": "把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。",
+      "summary_en": "Break forward and backward stepping into support, weight transfer and foot placement.",
+      "description_zh": "太極步貓步前進與倒退7\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Cat Steps — Forward and Backward — Clip 7\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極步貓步前進與倒退7\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Cat Steps — Forward and Backward — Clip 7\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "steps"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 7,
+      "descriptionBilingualUtf8Bytes": 2317
+    },
+    {
+      "key": "wectS3IYJxw",
+      "videoId": "wectS3IYJxw",
+      "sourceFilename": null,
+      "title_zh": "太極步貓步前進與倒退6",
+      "title_en": "Tai Chi Cat Steps — Forward and Backward — Clip 6",
+      "summary_zh": "把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。",
+      "summary_en": "Break forward and backward stepping into support, weight transfer and foot placement.",
+      "description_zh": "太極步貓步前進與倒退6\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Cat Steps — Forward and Backward — Clip 6\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極步貓步前進與倒退6\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Cat Steps — Forward and Backward — Clip 6\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "steps"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 6,
+      "descriptionBilingualUtf8Bytes": 2317
+    },
+    {
+      "key": "lDZmUF5_PHw",
+      "videoId": "lDZmUF5_PHw",
+      "sourceFilename": null,
+      "title_zh": "太極步貓步前進與倒退5",
+      "title_en": "Tai Chi Cat Steps — Forward and Backward — Clip 5",
+      "summary_zh": "把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。",
+      "summary_en": "Break forward and backward stepping into support, weight transfer and foot placement.",
+      "description_zh": "太極步貓步前進與倒退5\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Cat Steps — Forward and Backward — Clip 5\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極步貓步前進與倒退5\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Cat Steps — Forward and Backward — Clip 5\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "steps"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 5,
+      "descriptionBilingualUtf8Bytes": 2317
+    },
+    {
+      "key": "WU0BDetpL20",
+      "videoId": "WU0BDetpL20",
+      "sourceFilename": null,
+      "title_zh": "太極步貓步前進與倒退4",
+      "title_en": "Tai Chi Cat Steps — Forward and Backward — Clip 4",
+      "summary_zh": "把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。",
+      "summary_en": "Break forward and backward stepping into support, weight transfer and foot placement.",
+      "description_zh": "太極步貓步前進與倒退4\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Cat Steps — Forward and Backward — Clip 4\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極步貓步前進與倒退4\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Cat Steps — Forward and Backward — Clip 4\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "steps"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 4,
+      "descriptionBilingualUtf8Bytes": 2317
+    },
+    {
+      "key": "aAxfSSazhhU",
+      "videoId": "aAxfSSazhhU",
+      "sourceFilename": null,
+      "title_zh": "太極第二式   攬鵲尾棚、屢、擠、按4",
+      "title_en": "Tai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 4",
+      "summary_zh": "以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。",
+      "summary_en": "Use Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.",
+      "description_zh": "太極第二式   攬鵲尾棚、屢、擠、按4\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。\n\n觀看指引：把手的方向、身體轉向與腳下支撐分開看，再回到全身動作。可以在轉換處暫停，觀察重心所在與下一步的移動方向；每次複習選一個環節慢慢體會。\n\n功效目標與原理：練習把上肢動作、轉向與移重心連起來，培養協調和動作覺察。掤、捋、擠、按是傳統拳術常用的手法名稱，英文常譯為 Ward Off、Roll Back、Press、Push。掌握名稱後，再依柯明輝老師的示範體會動作之間的連續性。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 4\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nUse Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.\n\nViewing guide: observe hand direction, body orientation and foot support separately, then return to the whole movement. Pause at a transition to notice where the weight is and where it moves next. Choose one feature for each replay and give yourself time to explore it.\n\nLearning goals and background: practice coordinating the arms, turning and weight transfer, while developing awareness of the whole sequence. Peng, lu, ji and an are traditional martial-arts terms commonly translated as Ward Off, Roll Back, Press and Push. Use these names as landmarks while following the instructor’s demonstration of the transitions.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極第二式   攬鵲尾棚、屢、擠、按4\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。\n\n觀看指引：把手的方向、身體轉向與腳下支撐分開看，再回到全身動作。可以在轉換處暫停，觀察重心所在與下一步的移動方向；每次複習選一個環節慢慢體會。\n\n功效目標與原理：練習把上肢動作、轉向與移重心連起來，培養協調和動作覺察。掤、捋、擠、按是傳統拳術常用的手法名稱，英文常譯為 Ward Off、Roll Back、Press、Push。掌握名稱後，再依柯明輝老師的示範體會動作之間的連續性。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 4\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nUse Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.\n\nViewing guide: observe hand direction, body orientation and foot support separately, then return to the whole movement. Pause at a transition to notice where the weight is and where it moves next. Choose one feature for each replay and give yourself time to explore it.\n\nLearning goals and background: practice coordinating the arms, turning and weight transfer, while developing awareness of the whole sequence. Peng, lu, ji and an are traditional martial-arts terms commonly translated as Ward Off, Roll Back, Press and Push. Use these names as landmarks while following the instructor’s demonstration of the transitions.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "grasp-tail"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 4,
+      "descriptionBilingualUtf8Bytes": 2428
+    },
+    {
+      "key": "1YDQUKrKvOw",
+      "videoId": "1YDQUKrKvOw",
+      "sourceFilename": null,
+      "title_zh": "太極第二式   攬鵲尾棚、屢、擠、按3",
+      "title_en": "Tai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 3",
+      "summary_zh": "以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。",
+      "summary_en": "Use Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.",
+      "description_zh": "太極第二式   攬鵲尾棚、屢、擠、按3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。\n\n觀看指引：把手的方向、身體轉向與腳下支撐分開看，再回到全身動作。可以在轉換處暫停，觀察重心所在與下一步的移動方向；每次複習選一個環節慢慢體會。\n\n功效目標與原理：練習把上肢動作、轉向與移重心連起來，培養協調和動作覺察。掤、捋、擠、按是傳統拳術常用的手法名稱，英文常譯為 Ward Off、Roll Back、Press、Push。掌握名稱後，再依柯明輝老師的示範體會動作之間的連續性。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nUse Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.\n\nViewing guide: observe hand direction, body orientation and foot support separately, then return to the whole movement. Pause at a transition to notice where the weight is and where it moves next. Choose one feature for each replay and give yourself time to explore it.\n\nLearning goals and background: practice coordinating the arms, turning and weight transfer, while developing awareness of the whole sequence. Peng, lu, ji and an are traditional martial-arts terms commonly translated as Ward Off, Roll Back, Press and Push. Use these names as landmarks while following the instructor’s demonstration of the transitions.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極第二式   攬鵲尾棚、屢、擠、按3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。\n\n觀看指引：把手的方向、身體轉向與腳下支撐分開看，再回到全身動作。可以在轉換處暫停，觀察重心所在與下一步的移動方向；每次複習選一個環節慢慢體會。\n\n功效目標與原理：練習把上肢動作、轉向與移重心連起來，培養協調和動作覺察。掤、捋、擠、按是傳統拳術常用的手法名稱，英文常譯為 Ward Off、Roll Back、Press、Push。掌握名稱後，再依柯明輝老師的示範體會動作之間的連續性。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nUse Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.\n\nViewing guide: observe hand direction, body orientation and foot support separately, then return to the whole movement. Pause at a transition to notice where the weight is and where it moves next. Choose one feature for each replay and give yourself time to explore it.\n\nLearning goals and background: practice coordinating the arms, turning and weight transfer, while developing awareness of the whole sequence. Peng, lu, ji and an are traditional martial-arts terms commonly translated as Ward Off, Roll Back, Press and Push. Use these names as landmarks while following the instructor’s demonstration of the transitions.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "grasp-tail"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 3,
+      "descriptionBilingualUtf8Bytes": 2428
+    },
+    {
+      "key": "r-UqgnAEqx4",
+      "videoId": "r-UqgnAEqx4",
+      "sourceFilename": null,
+      "title_zh": "太極第二式   攬鵲尾棚、屢、擠、按2",
+      "title_en": "Tai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 2",
+      "summary_zh": "以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。",
+      "summary_en": "Use Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.",
+      "description_zh": "太極第二式   攬鵲尾棚、屢、擠、按2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。\n\n觀看指引：把手的方向、身體轉向與腳下支撐分開看，再回到全身動作。可以在轉換處暫停，觀察重心所在與下一步的移動方向；每次複習選一個環節慢慢體會。\n\n功效目標與原理：練習把上肢動作、轉向與移重心連起來，培養協調和動作覺察。掤、捋、擠、按是傳統拳術常用的手法名稱，英文常譯為 Ward Off、Roll Back、Press、Push。掌握名稱後，再依柯明輝老師的示範體會動作之間的連續性。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nUse Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.\n\nViewing guide: observe hand direction, body orientation and foot support separately, then return to the whole movement. Pause at a transition to notice where the weight is and where it moves next. Choose one feature for each replay and give yourself time to explore it.\n\nLearning goals and background: practice coordinating the arms, turning and weight transfer, while developing awareness of the whole sequence. Peng, lu, ji and an are traditional martial-arts terms commonly translated as Ward Off, Roll Back, Press and Push. Use these names as landmarks while following the instructor’s demonstration of the transitions.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極第二式   攬鵲尾棚、屢、擠、按2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。\n\n觀看指引：把手的方向、身體轉向與腳下支撐分開看，再回到全身動作。可以在轉換處暫停，觀察重心所在與下一步的移動方向；每次複習選一個環節慢慢體會。\n\n功效目標與原理：練習把上肢動作、轉向與移重心連起來，培養協調和動作覺察。掤、捋、擠、按是傳統拳術常用的手法名稱，英文常譯為 Ward Off、Roll Back、Press、Push。掌握名稱後，再依柯明輝老師的示範體會動作之間的連續性。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nUse Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.\n\nViewing guide: observe hand direction, body orientation and foot support separately, then return to the whole movement. Pause at a transition to notice where the weight is and where it moves next. Choose one feature for each replay and give yourself time to explore it.\n\nLearning goals and background: practice coordinating the arms, turning and weight transfer, while developing awareness of the whole sequence. Peng, lu, ji and an are traditional martial-arts terms commonly translated as Ward Off, Roll Back, Press and Push. Use these names as landmarks while following the instructor’s demonstration of the transitions.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "grasp-tail"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 2,
+      "descriptionBilingualUtf8Bytes": 2428
+    },
+    {
+      "key": "vjCSOVT6l2Q",
+      "videoId": "vjCSOVT6l2Q",
+      "sourceFilename": null,
+      "title_zh": "太極第二式   攬鵲尾棚、屢、擠、按1",
+      "title_en": "Tai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 1",
+      "summary_zh": "以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。",
+      "summary_en": "Use Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.",
+      "description_zh": "太極第二式   攬鵲尾棚、屢、擠、按1\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。\n\n觀看指引：把手的方向、身體轉向與腳下支撐分開看，再回到全身動作。可以在轉換處暫停，觀察重心所在與下一步的移動方向；每次複習選一個環節慢慢體會。\n\n功效目標與原理：練習把上肢動作、轉向與移重心連起來，培養協調和動作覺察。掤、捋、擠、按是傳統拳術常用的手法名稱，英文常譯為 Ward Off、Roll Back、Press、Push。掌握名稱後，再依柯明輝老師的示範體會動作之間的連續性。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 1\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nUse Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.\n\nViewing guide: observe hand direction, body orientation and foot support separately, then return to the whole movement. Pause at a transition to notice where the weight is and where it moves next. Choose one feature for each replay and give yourself time to explore it.\n\nLearning goals and background: practice coordinating the arms, turning and weight transfer, while developing awareness of the whole sequence. Peng, lu, ji and an are traditional martial-arts terms commonly translated as Ward Off, Roll Back, Press and Push. Use these names as landmarks while following the instructor’s demonstration of the transitions.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極第二式   攬鵲尾棚、屢、擠、按1\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n以掤、捋、擠、按為索引，觀察手、身體與移重心的配合。\n\n觀看指引：把手的方向、身體轉向與腳下支撐分開看，再回到全身動作。可以在轉換處暫停，觀察重心所在與下一步的移動方向；每次複習選一個環節慢慢體會。\n\n功效目標與原理：練習把上肢動作、轉向與移重心連起來，培養協調和動作覺察。掤、捋、擠、按是傳統拳術常用的手法名稱，英文常譯為 Ward Off、Roll Back、Press、Push。掌握名稱後，再依柯明輝老師的示範體會動作之間的連續性。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Form 2 — Grasp the Sparrow’s Tail (Peng, Lu, Ji, An) — Clip 1\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nUse Ward Off, Roll Back, Press and Push as an index for observing coordinated movement.\n\nViewing guide: observe hand direction, body orientation and foot support separately, then return to the whole movement. Pause at a transition to notice where the weight is and where it moves next. Choose one feature for each replay and give yourself time to explore it.\n\nLearning goals and background: practice coordinating the arms, turning and weight transfer, while developing awareness of the whole sequence. Peng, lu, ji and an are traditional martial-arts terms commonly translated as Ward Off, Roll Back, Press and Push. Use these names as landmarks while following the instructor’s demonstration of the transitions.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "grasp-tail"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 1,
+      "descriptionBilingualUtf8Bytes": 2428
+    },
+    {
+      "key": "CVsAsRsZmp0",
+      "videoId": "CVsAsRsZmp0",
+      "sourceFilename": null,
+      "title_zh": "太極步貓步前進與倒退3",
+      "title_en": "Tai Chi Cat Steps — Forward and Backward — Clip 3",
+      "summary_zh": "把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。",
+      "summary_en": "Break forward and backward stepping into support, weight transfer and foot placement.",
+      "description_zh": "太極步貓步前進與倒退3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Cat Steps — Forward and Backward — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極步貓步前進與倒退3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Cat Steps — Forward and Backward — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "steps"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 3,
+      "descriptionBilingualUtf8Bytes": 2317
+    },
+    {
+      "key": "C2375tcy1mY",
+      "videoId": "C2375tcy1mY",
+      "sourceFilename": null,
+      "title_zh": "太極步貓步前進與倒退2",
+      "title_en": "Tai Chi Cat Steps — Forward and Backward — Clip 2",
+      "summary_zh": "把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。",
+      "summary_en": "Break forward and backward stepping into support, weight transfer and foot placement.",
+      "description_zh": "太極步貓步前進與倒退2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Cat Steps — Forward and Backward — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極步貓步前進與倒退2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Cat Steps — Forward and Backward — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "steps"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 2,
+      "descriptionBilingualUtf8Bytes": 2317
+    },
+    {
+      "key": "XAr9kSnA9ek",
+      "videoId": "XAr9kSnA9ek",
+      "sourceFilename": null,
+      "title_zh": "太極步貓步前進與倒退1",
+      "title_en": "Tai Chi Cat Steps — Forward and Backward — Clip 1",
+      "summary_zh": "把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。",
+      "summary_en": "Break forward and backward stepping into support, weight transfer and foot placement.",
+      "description_zh": "太極步貓步前進與倒退1\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Cat Steps — Forward and Backward — Clip 1\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極步貓步前進與倒退1\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n把前進與倒退拆成支撐、移重心、落腳，慢慢看清楚。\n\n觀看指引：先辨認支撐身體的腳與準備移動的腳，再觀察落腳與移重心的先後。可把步法分成小段重看，對照前進、倒退時的方向變化；自己複習時，從容易控制的小步幅開始。\n\n功效目標與原理：以清楚的支撐與移重心，練習步伐控制、身體位置覺察和動作規劃。中國拳術中的虛實觀念，提供了觀察兩腳分工的語言；把節奏放慢，有助於看清移動過程。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Cat Steps — Forward and Backward — Clip 1\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nBreak forward and backward stepping into support, weight transfer and foot placement.\n\nViewing guide: identify the supporting foot and the foot preparing to move, then observe the sequence of placement and weight transfer. Replay a short section to compare forward and backward directions. Begin your own review with a manageable step length and follow the instructor’s guidance on spacing and contact.\n\nLearning goals and background: focus on step control, body-position awareness and planning the next movement. The traditional martial-arts idea of substantial and insubstantial offers a way to notice the changing roles of the two legs. A slower pace gives you time to observe the transition.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "steps"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 1,
+      "descriptionBilingualUtf8Bytes": 2317
+    },
+    {
+      "key": "dTRqcM5ogPI",
+      "videoId": "dTRqcM5ogPI",
+      "sourceFilename": null,
+      "title_zh": "太極第一式 開步預備3",
+      "title_en": "Tai Chi Form 1 — Opening Preparation — Clip 3",
+      "summary_zh": "從預備站姿觀察起步，練習穩定、放鬆與動作銜接。",
+      "summary_en": "Observe the preparation and opening step, focusing on steadiness, relaxation and transitions.",
+      "description_zh": "太極第一式 開步預備3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n從預備站姿觀察起步，練習穩定、放鬆與動作銜接。\n\n觀看指引：先看全身站姿，再看腳掌與地面的關係，留意起步前安定身體的片刻。複習時可先練站姿，再加入手部動作；把肩膀、手肘與軀幹的配合，放進自己容易維持的姿勢裡。\n\n功效目標與原理：這段練習適合培養姿態覺察、注意力與動作銜接。太極源於中國拳術，開步預備把安定站姿轉為有方向的移動，也讓日常練習有一個從容的開始。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Form 1 — Opening Preparation — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nObserve the preparation and opening step, focusing on steadiness, relaxation and transitions.\n\nViewing guide: observe the whole-body preparation and the relationship between the feet and the ground. Notice the settled moment before stepping. During review, begin with the stance, then add the arms and explore how the shoulders, elbows and trunk work together in a position you can maintain comfortably.\n\nLearning goals and background: use the preparation to practice posture awareness, attention and a smooth transition into movement. With roots in Chinese martial arts, tai chi connects deliberate action with attentive practice. The opening is an invitation to find your pace before continuing through the form.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極第一式 開步預備3\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n從預備站姿觀察起步，練習穩定、放鬆與動作銜接。\n\n觀看指引：先看全身站姿，再看腳掌與地面的關係，留意起步前安定身體的片刻。複習時可先練站姿，再加入手部動作；把肩膀、手肘與軀幹的配合，放進自己容易維持的姿勢裡。\n\n功效目標與原理：這段練習適合培養姿態覺察、注意力與動作銜接。太極源於中國拳術，開步預備把安定站姿轉為有方向的移動，也讓日常練習有一個從容的開始。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Form 1 — Opening Preparation — Clip 3\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nObserve the preparation and opening step, focusing on steadiness, relaxation and transitions.\n\nViewing guide: observe the whole-body preparation and the relationship between the feet and the ground. Notice the settled moment before stepping. During review, begin with the stance, then add the arms and explore how the shoulders, elbows and trunk work together in a position you can maintain comfortably.\n\nLearning goals and background: use the preparation to practice posture awareness, attention and a smooth transition into movement. With roots in Chinese martial arts, tai chi connects deliberate action with attentive practice. The opening is an invitation to find your pace before continuing through the form.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "opening"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 3,
+      "descriptionBilingualUtf8Bytes": 2310
+    },
+    {
+      "key": "cyh5iYheJZo",
+      "videoId": "cyh5iYheJZo",
+      "sourceFilename": null,
+      "title_zh": "太極第一式 開步預備2",
+      "title_en": "Tai Chi Form 1 — Opening Preparation — Clip 2",
+      "summary_zh": "從預備站姿觀察起步，練習穩定、放鬆與動作銜接。",
+      "summary_en": "Observe the preparation and opening step, focusing on steadiness, relaxation and transitions.",
+      "description_zh": "太極第一式 開步預備2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n從預備站姿觀察起步，練習穩定、放鬆與動作銜接。\n\n觀看指引：先看全身站姿，再看腳掌與地面的關係，留意起步前安定身體的片刻。複習時可先練站姿，再加入手部動作；把肩膀、手肘與軀幹的配合，放進自己容易維持的姿勢裡。\n\n功效目標與原理：這段練習適合培養姿態覺察、注意力與動作銜接。太極源於中國拳術，開步預備把安定站姿轉為有方向的移動，也讓日常練習有一個從容的開始。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Form 1 — Opening Preparation — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nObserve the preparation and opening step, focusing on steadiness, relaxation and transitions.\n\nViewing guide: observe the whole-body preparation and the relationship between the feet and the ground. Notice the settled moment before stepping. During review, begin with the stance, then add the arms and explore how the shoulders, elbows and trunk work together in a position you can maintain comfortably.\n\nLearning goals and background: use the preparation to practice posture awareness, attention and a smooth transition into movement. With roots in Chinese martial arts, tai chi connects deliberate action with attentive practice. The opening is an invitation to find your pace before continuing through the form.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極第一式 開步預備2\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n從預備站姿觀察起步，練習穩定、放鬆與動作銜接。\n\n觀看指引：先看全身站姿，再看腳掌與地面的關係，留意起步前安定身體的片刻。複習時可先練站姿，再加入手部動作；把肩膀、手肘與軀幹的配合，放進自己容易維持的姿勢裡。\n\n功效目標與原理：這段練習適合培養姿態覺察、注意力與動作銜接。太極源於中國拳術，開步預備把安定站姿轉為有方向的移動，也讓日常練習有一個從容的開始。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Form 1 — Opening Preparation — Clip 2\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nObserve the preparation and opening step, focusing on steadiness, relaxation and transitions.\n\nViewing guide: observe the whole-body preparation and the relationship between the feet and the ground. Notice the settled moment before stepping. During review, begin with the stance, then add the arms and explore how the shoulders, elbows and trunk work together in a position you can maintain comfortably.\n\nLearning goals and background: use the preparation to practice posture awareness, attention and a smooth transition into movement. With roots in Chinese martial arts, tai chi connects deliberate action with attentive practice. The opening is an invitation to find your pace before continuing through the form.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "opening"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 2,
+      "descriptionBilingualUtf8Bytes": 2310
+    },
+    {
+      "key": "KeG-sZCpM-o",
+      "videoId": "KeG-sZCpM-o",
+      "sourceFilename": null,
+      "title_zh": "太極第一式 開步預備1",
+      "title_en": "Tai Chi Form 1 — Opening Preparation — Clip 1",
+      "summary_zh": "從預備站姿觀察起步，練習穩定、放鬆與動作銜接。",
+      "summary_en": "Observe the preparation and opening step, focusing on steadiness, relaxation and transitions.",
+      "description_zh": "太極第一式 開步預備1\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n從預備站姿觀察起步，練習穩定、放鬆與動作銜接。\n\n觀看指引：先看全身站姿，再看腳掌與地面的關係，留意起步前安定身體的片刻。複習時可先練站姿，再加入手部動作；把肩膀、手肘與軀幹的配合，放進自己容易維持的姿勢裡。\n\n功效目標與原理：這段練習適合培養姿態覺察、注意力與動作銜接。太極源於中國拳術，開步預備把安定站姿轉為有方向的移動，也讓日常練習有一個從容的開始。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/",
+      "description_en": "Tai Chi Form 1 — Opening Preparation — Clip 1\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nObserve the preparation and opening step, focusing on steadiness, relaxation and transitions.\n\nViewing guide: observe the whole-body preparation and the relationship between the feet and the ground. Notice the settled moment before stepping. During review, begin with the stance, then add the arms and explore how the shoulders, elbows and trunk work together in a position you can maintain comfortably.\n\nLearning goals and background: use the preparation to practice posture awareness, attention and a smooth transition into movement. With roots in Chinese martial arts, tai chi connects deliberate action with attentive practice. The opening is an invitation to find your pace before continuing through the form.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "description_bilingual": "太極第一式 開步預備1\n聰動太極拳班｜2026年11月｜柯明輝老師\n\n從預備站姿觀察起步，練習穩定、放鬆與動作銜接。\n\n觀看指引：先看全身站姿，再看腳掌與地面的關係，留意起步前安定身體的片刻。複習時可先練站姿，再加入手部動作；把肩膀、手肘與軀幹的配合，放進自己容易維持的姿勢裡。\n\n功效目標與原理：這段練習適合培養姿態覺察、注意力與動作銜接。太極源於中國拳術，開步預備把安定站姿轉為有方向的移動，也讓日常練習有一個從容的開始。\n\n舒適練習提醒：在淨空地面慢慢練，保持自然呼吸；有疼痛、頭暈或站不穩時先停下休息，個別復健安排請與醫療人員討論。\n\n延伸閱讀：\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\n歡迎關注聰動的課程與健康資訊：https://www.smartaction.org.tw/\n\n──────── English ────────\n\nTai Chi Form 1 — Opening Preparation — Clip 1\nSmartAction Tai Chi Class | November 2026 | Instructor: 柯明輝\n\nObserve the preparation and opening step, focusing on steadiness, relaxation and transitions.\n\nViewing guide: observe the whole-body preparation and the relationship between the feet and the ground. Notice the settled moment before stepping. During review, begin with the stance, then add the arms and explore how the shoulders, elbows and trunk work together in a position you can maintain comfortably.\n\nLearning goals and background: use the preparation to practice posture awareness, attention and a smooth transition into movement. With roots in Chinese martial arts, tai chi connects deliberate action with attentive practice. The opening is an invitation to find your pace before continuing through the form.\n\nComfortable practice: use a clear floor area, move gently and breathe naturally; pause for pain, dizziness or unsteadiness, and discuss individual rehabilitation plans with your healthcare team.\n\nFurther reading:\nhttps://www.nccih.nih.gov/health/tai-chi-what-you-need-to-know\nhttps://www.nhs.uk/live-well/exercise/flexibility-exercises/\n\nExplore SmartAction classes and health information: https://www.smartaction.org.tw/",
+      "playlistKeys": [
+        "opening"
+      ],
+      "reviewed": false,
+      "captions": [],
+      "pending": [
+        "OAuth channel ownership verification",
+        "Metadata review against the actual recording",
+        "Time-aligned Traditional Chinese transcription and English translation"
+      ],
+      "metadataSource": "Previously verified public playlist title; not a verified original filename or transcript",
+      "originalClipNumber": 1,
+      "descriptionBilingualUtf8Bytes": 2310
+    }
+  ]
+}
