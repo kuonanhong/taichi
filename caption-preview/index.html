@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="description" content="聰動太極拳國台語混合影片中英文字幕草稿預覽。聽不清楚處標註待確認，確認前不修改原 YouTube 影片。">
+  <title>聰動太極拳｜中英文字幕對照預覽</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <div><p class="eyebrow">SMARTACTION · TAI CHI</p><h1>中英文字幕對照預覽</h1><p class="intro">國語、台語混合 · Mandarin &amp; Taiwanese Hokkien</p></div>
+    <a class="site-link" href="../video-library/">影片目錄 ↗</a>
+  </header>
+  <main>
+    <section class="notice" aria-label="字幕草稿狀態">
+      <strong>AI 字幕草稿，確認後才補到原影片。</strong>
+      <span>聽不清楚處標註「待確認」，可逐段回聽與校對。</span>
+      <small>AI-assisted draft captions. Uncertain speech: Pending confirmation.</small>
+    </section>
+    <p id="loadStatus" role="status">正在載入字幕資料…</p>
+    <div class="layout" id="app" hidden>
+      <aside class="library">
+        <details id="libraryDetails" open>
+          <summary><span>選擇影片</span><span id="videoCount" class="count"></span></summary>
+          <label for="search">搜尋影片 / Search</label>
+          <input id="search" type="search" placeholder="片名、英文名稱或影片 ID" autocomplete="off">
+          <label for="category">主題分類 / Category</label>
+          <select id="category"><option value="">全部分類 / All categories</option></select>
+          <p id="filterCount" class="small"></p>
+          <div id="videoList" class="video-list" aria-label="影片清單"></div>
+        </details>
+        <div class="library-footer"><button id="exportAll" type="button" class="secondary">下載全部校對紀錄 JSON</button><p>修改只暫存在此瀏覽器；可下載紀錄保存。</p><p id="backupStatus" hidden></p></div>
+      </aside>
+      <section class="workspace" aria-label="影片及中英文字幕">
+        <header class="video-heading"><p id="categoryName" class="eyebrow"></p><h2 id="titleZh"></h2><p id="titleEn" lang="en"></p><div id="videoStats" class="stats"></div><p id="videoNote" class="small"></p><p id="videoNoteEn" class="small" lang="en"></p></header>
+        <div class="review-grid">
+          <section class="player-column">
+            <div id="playerStage" class="player-stage"><div id="playerPlaceholder"><p>播放原有 YouTube 影片</p><button id="loadPlayer" type="button">載入播放器 / Load player</button><p class="small">載入後，按 YouTube 原生播放鈕開始。</p></div></div>
+            <div class="live-captions" aria-label="目前播放時間的中英文字幕">
+              <div class="caption-meta"><span id="currentTime">00:00.000</span><span id="cueState">等待播放</span></div>
+              <p id="liveZh" lang="zh-Hant">載入影片後，這裡會隨播放時間顯示字幕。</p>
+              <p id="liveEn" lang="en">Captions will follow the original video playback.</p>
+            </div>
+            <div class="playback-controls"><label for="speed">播放速度</label><select id="speed"><option value="0.5">0.5 倍</option><option value="0.75">0.75 倍</option><option value="1" selected>正常 1 倍</option><option value="1.25">1.25 倍</option></select><label for="displayLanguage">字幕顯示</label><select id="displayLanguage"><option value="both">中英對照</option><option value="zh">中文</option><option value="en">English</option></select></div>
+            <p id="playerStatus" role="status" class="small"></p><a id="youtubeLink" target="_blank" rel="noopener">開啟原 YouTube 影片 ↗</a>
+            <section class="download-panel"><h3>下載此片字幕草稿</h3><div class="button-row"><button id="exportZh" type="button" class="secondary">繁中 SRT</button><button id="exportEn" type="button" class="secondary">English SRT</button><button id="exportVideo" type="button" class="secondary">此片校對 JSON</button></div><p class="small">檔案仍是草稿，保留「待確認」標記；本頁沒有上傳或修改 YouTube 的按鈕。</p></section>
+          </section>
+          <section class="transcript-column" aria-label="逐句對照">
+            <div class="transcript-header"><h3>逐句中英對照</h3><label><input type="checkbox" id="follow" checked> 隨播放捲動</label></div>
+            <p class="small">按時間跳到原音；可修正文字並匯出校對紀錄。字幕位於播放器下方，不會遮住 YouTube 控制項。</p>
+            <div id="cueList" class="cue-list"></div>
+          </section>
+        </div>
+      </section>
+    </div>
+    <footer class="page-footer"><a href="https://www.smartaction.org.tw/" target="_blank" rel="noopener">聰動協會官網 ↗</a><span>字幕預覽與原有影片分開管理；不重傳影片。</span></footer>
+  </main>
+  <dialog id="editDialog"><form method="dialog" id="editForm"><h2>校對這一句</h2><p id="editTime" class="small"></p><label for="editZh">繁體中文</label><textarea id="editZh" rows="4"></textarea><label for="editEn">English</label><textarea id="editEn" rows="4"></textarea><p class="small">聽不清楚處保留「待確認」，英文保留「Pending confirmation」。儲存後仍是草稿，不會寫入 YouTube。</p><div class="button-row"><button type="button" class="secondary" id="cancelEdit">取消</button><button type="submit">儲存校對草稿</button></div></form></dialog>
+</body>
+</html>
