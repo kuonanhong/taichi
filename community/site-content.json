@@ -160,6 +160,77 @@
           "url": "https://www.facebook.com/smartaction.KS/"
         }
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "weekday": "三",
+      "time": "10:00",
+      "timezone": "Asia/Taipei",
+      "groupName": "高雄市失智症協會活動平台 記事本裡有資料可使用",
+      "header": "聰動衛教｜記憶、動作與陪伴",
+      "title": "記憶、動作與陪伴：一起照顧日常",
+      "textScale": 1.5,
+      "typography": {
+        "header": 21,
+        "title": 30,
+        "body": 24,
+        "source": 18,
+        "button": 24
+      },
+      "hero": {
+        "url": "https://kuonanhong.github.io/taichi/community/education/2026-11/member-wellbeing.jpg",
+        "alt": "家人陪長輩安全活動、坐下耐心聊天，以及社區朋友相聚互動的三格插畫",
+        "aspectRatio": "2:1"
+      },
+      "paragraphs": [
+        "巴金森會影響動作，也可能影響思考，但不是每位病友都會失智。失智也不是正常老化；若記憶、判斷或日常生活能力出現改變，請就醫評估，不要只當作年紀大了。",
+        "① 安全動一動：選擇做得到的溫和活動，例如散步或經評估適合的太極。先暖身，動作慢慢來；需要時扶穩固支撐或有人陪同。活動不能取代藥物，也不能保證逆轉失智或治癒巴金森。",
+        "② 防跌從家裡開始：清出走道上的電線與雜物，保持足夠照明，穿合腳穩固的鞋。若曾跌倒、走路不穩或常頭暈，請告訴醫療團隊，一起找原因與調整活動。",
+        "③ 陪伴多一點耐心：一次說一件事、問一個問題，用短句慢慢說，再留時間等回答。聽不懂就換個說法，不急著糾正或爭辯；先理解長輩的感受，讓對話有耐心也有尊重。",
+        "藥物依原醫囑使用，不自行減量、停藥或改時間。若出現嗜睡、頭暈、混亂或其他不舒服，記下發生時段與正在用的藥，聯絡醫療團隊評估。",
+        "歡迎了解聰動太極拳班、會員服務與12/5高雄長庚活動；休息時，也可和家人坐穩欣賞五支擬真風景導覽。影片由AERO Explorer依地形／衛星影像合成，並非實拍空拍。"
+      ],
+      "dynamicFields": [],
+      "note": "今天選一件做得到的小事，也照顧一下陪伴者的需要。",
+      "source": "聰動課程資訊；WHO巴金森病與失智症資料、衛福部長照失智症衛教、Parkinson’s Foundation／ACSM運動建議、Alzheimer’s Association溝通指引。",
+      "links": [
+        {
+          "label": "衛教全文：記憶、動作與陪伴",
+          "url": "https://kuonanhong.github.io/taichi/community/education/dementia-parkinson/"
+        },
+        {
+          "label": "歡迎加入聰動太極拳",
+          "url": "https://kuonanhong.github.io/taichi/community/course/"
+        },
+        {
+          "label": "坐穩看風景：五支擬真導覽",
+          "url": "https://kuonanhong.github.io/taichi/community/flight/"
+        },
+        {
+          "label": "加入聰動會員",
+          "url": "https://kuonanhong.github.io/taichi/community/join/"
+        },
+        {
+          "label": "小額捐款",
+          "url": "https://kuonanhong.github.io/taichi/community/support/"
+        },
+        {
+          "label": "12/5高雄長庚活動網頁",
+          "url": "https://www.smartaction.org.tw/blog/dc2c10fc11a"
+        },
+        {
+          "label": "12/5現場／直播報名",
+          "url": "https://kuonanhong.github.io/taichi/community/events/2026-12-05/"
+        },
+        {
+          "label": "聰動官網",
+          "url": "https://www.smartaction.org.tw/"
+        },
+        {
+          "label": "Facebook粉專",
+          "url": "https://www.facebook.com/smartaction.KS/"
+        }
+      ]
     }
   ],
   "lesson5Videos": [
@@ -275,6 +346,142 @@
     {
       "label": "NCCIH：氣功的研究與證據限制",
       "url": "https://www.nccih.nih.gov/health/qigong-what-you-need-to-know"
+    },
+    {
+      "label": "WHO：失智症",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/dementia"
+    },
+    {
+      "label": "Parkinson’s Foundation：巴金森病的認知與思考變化",
+      "url": "https://www.parkinson.org/library/videos/cognition-thinking-changes"
+    },
+    {
+      "label": "衛生福利部：失智症照護與服務資源",
+      "url": "https://1966.gov.tw/LTC/cp-6456-69825-207.html"
+    },
+    {
+      "label": "CDC：居家防跌與醫療評估",
+      "url": "https://www.cdc.gov/falls/prevention/index.html"
+    },
+    {
+      "label": "CDC：安全鞋具與居家活動空間",
+      "url": "https://www.cdc.gov/older-adult-drivers/media/pdfs/CDC-MyMobilityTool.pdf"
+    },
+    {
+      "label": "Alzheimer’s Association：溝通與陪伴指引",
+      "url": "https://www.alz.org/help-support/caregiving/daily-care/communications"
+    },
+    {
+      "label": "MedlinePlus：巴金森病用藥與副作用",
+      "url": "https://medlineplus.gov/ency/article/000755.htm"
+    }
+  ],
+  "educationPages": [
+    {
+      "path": "education/dementia-parkinson/index.html",
+      "title": "記憶、動作與陪伴：一起照顧日常",
+      "description": "從辨識變化、安全活動到耐心溝通，把照顧放進做得到的日常。",
+      "hero": {
+        "url": "https://kuonanhong.github.io/taichi/community/education/2026-11/member-wellbeing.jpg",
+        "alt": "家人陪長輩安全活動、坐下耐心聊天，以及社區朋友相聚互動的三格插畫",
+        "aspectRatio": "2:1"
+      },
+      "sections": [
+        {
+          "title": "記憶改變，先評估",
+          "paragraphs": [
+            "巴金森會影響動作，也可能影響思考，但不是每位病友都會失智。失智也不是正常老化；若記憶、判斷或日常生活能力出現改變，請就醫評估，不要只當作年紀大了。"
+          ],
+          "sourceUrls": [
+            "https://www.who.int/news-room/fact-sheets/detail/dementia",
+            "https://www.parkinson.org/library/videos/cognition-thinking-changes",
+            "https://1966.gov.tw/LTC/cp-6456-69825-207.html"
+          ]
+        },
+        {
+          "title": "安全活動，依能力慢慢來",
+          "paragraphs": [
+            "① 安全動一動：選擇做得到的溫和活動，例如散步或經評估適合的太極。先暖身，動作慢慢來；需要時扶穩固支撐或有人陪同。活動不能取代藥物，也不能保證逆轉失智或治癒巴金森。"
+          ],
+          "sourceUrls": [
+            "https://www.parkinson.org/sites/default/files/documents/parkinsons_exercise_recommendations_infographic_2025.pdf",
+            "https://www.who.int/news-room/fact-sheets/detail/parkinson-disease",
+            "https://www.who.int/news-room/fact-sheets/detail/dementia"
+          ]
+        },
+        {
+          "title": "把居家防跌做在前面",
+          "paragraphs": [
+            "② 防跌從家裡開始：清出走道上的電線與雜物，保持足夠照明，穿合腳穩固的鞋。若曾跌倒、走路不穩或常頭暈，請告訴醫療團隊，一起找原因與調整活動。"
+          ],
+          "sourceUrls": [
+            "https://www.cdc.gov/falls/prevention/index.html",
+            "https://www.cdc.gov/older-adult-drivers/media/pdfs/CDC-MyMobilityTool.pdf"
+          ]
+        },
+        {
+          "title": "用耐心讓溝通容易一點",
+          "paragraphs": [
+            "③ 陪伴多一點耐心：一次說一件事、問一個問題，用短句慢慢說，再留時間等回答。聽不懂就換個說法，不急著糾正或爭辯；先理解長輩的感受，讓對話有耐心也有尊重。"
+          ],
+          "sourceUrls": [
+            "https://www.alz.org/help-support/caregiving/daily-care/communications"
+          ]
+        },
+        {
+          "title": "用藥變化，先聯絡醫療團隊",
+          "paragraphs": [
+            "藥物依原醫囑使用，不自行減量、停藥或改時間。若出現嗜睡、頭暈、混亂或其他不舒服，記下發生時段與正在用的藥，聯絡醫療團隊評估。"
+          ],
+          "sourceUrls": [
+            "https://medlineplus.gov/ency/article/000755.htm"
+          ]
+        },
+        {
+          "title": "照顧自己，也照顧陪伴者",
+          "paragraphs": [
+            "今天選一件做得到的小事，也照顧一下陪伴者的需要。",
+            "有照顧需求時，可向醫療團隊或所在地長照服務窗口詢問，依個別需要評估合適的協助。"
+          ],
+          "sourceUrls": [
+            "https://1966.gov.tw/LTC/cp-6456-69825-207.html"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "歡迎加入聰動太極拳",
+          "url": "https://kuonanhong.github.io/taichi/community/course/"
+        },
+        {
+          "label": "坐穩看風景：五支擬真導覽",
+          "url": "https://kuonanhong.github.io/taichi/community/flight/"
+        },
+        {
+          "label": "加入聰動會員",
+          "url": "https://kuonanhong.github.io/taichi/community/join/"
+        },
+        {
+          "label": "小額捐款",
+          "url": "https://kuonanhong.github.io/taichi/community/support/"
+        },
+        {
+          "label": "12/5高雄長庚活動網頁",
+          "url": "https://www.smartaction.org.tw/blog/dc2c10fc11a"
+        },
+        {
+          "label": "12/5現場／直播報名",
+          "url": "https://kuonanhong.github.io/taichi/community/events/2026-12-05/"
+        },
+        {
+          "label": "聰動官網",
+          "url": "https://www.smartaction.org.tw/"
+        },
+        {
+          "label": "Facebook粉專",
+          "url": "https://www.facebook.com/smartaction.KS/"
+        }
+      ]
     }
   ]
 }
