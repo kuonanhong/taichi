@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-22",
+  "baseUrl": "https://kuonanhong.github.io/taichi/community",
+  "previewOnly": true,
+  "statusLabel": "預定時間／內容預覽",
+  "commonLinks": {
+    "website": "https://www.smartaction.org.tw/",
+    "facebook": "https://www.facebook.com/smartaction.KS/",
+    "line": "https://line.me/R/ti/p/%40smartaction",
+    "phone": "07-3920873",
+    "map": "https://maps.app.goo.gl/sEcydLYz2TpnFYwu8?g_st=il",
+    "donation": "https://smartaction.cashier.ecpay.com.tw/product/000000000396470",
+    "onsite": "https://www.beclass.com/rid=305283a6ab2338104e45",
+    "online": "https://www.beclass.com/rid=305283a6ab2433bf05a9",
+    "event": "https://www.smartaction.org.tw/blog/dc2c10fc11a",
+    "history": "https://kuonanhong.github.io/taichi/video-library/"
+  },
+  "cards": [
+    {
+      "date": "2026-11-23",
+      "weekday": "一",
+      "time": "10:00",
+      "timezone": "Asia/Taipei",
+      "groupName": "聰動太極拳運動班",
+      "header": "聰動太極拳班｜上課提醒",
+      "title": "今天下午 3:00～4:20 太極拳課",
+      "textScale": 1,
+      "typography": {
+        "header": 14,
+        "title": 20,
+        "body": 16,
+        "source": 12,
+        "button": 16
+      },
+      "paragraphs": [
+        "早安！今天是 11/23（週一），下午 3:00～4:20 在衛武營榕園有柯明輝老師的太極拳課。",
+        "請提早到、記得帶水、做好防曬（帽子或陽傘）。如果臨時變天下雨，是否照常上課請聽老師在群組的指示。",
+        "歡迎到現場接受老師正確的指導，和同學互相切磋。在家看影片複習時，旁邊要有穩固椅子或牆可扶，地面不要有雜物；疼痛、頭暈或站不穩就先停下來。",
+        "最新複習：11/19 第五堂課已有 10 支核實的 YouTube 影片，分為熱身 6 支、攬鵲尾第一至第四陣 4 支；按下方按鈕可在網頁內播放原有影片。",
+        "今日知識：先慢慢暖身、輕柔伸展；骨盆舒服接近中立，膝蓋與腳尖同向，不強夾尾骨、不固定腳掌扭膝。任督二脈是傳統理論，沒有可靠臨床證據顯示「打通」能治癒或逆轉巴金森病。詳細說明與來源請按「太極知識與安全」。",
+        "休息時也可坐穩欣賞五支擬真風景導覽。這些是 AERO Explorer 依地形／衛星影像合成的擬真空拍導覽，並非實拍空拍。"
+      ],
+      "dynamicFields": [
+        {
+          "key": "weatherUv",
+          "insertAfterParagraph": 0,
+          "previewText": "天氣與紫外線：將在發送當日重新取得；此預覽不使用其他日期的數值。",
+          "sendRule": "發送當日重新取得高雄天氣與紫外線；取得失敗時明確說明暫無資料，不填入推測值。"
+        }
+      ],
+      "note": "依老師現場指導與個別醫療建議練習；太極拳不能治癒巴金森病，也不能取代藥物與回診。",
+      "source": "聰動課程資訊；Parkinson’s Foundation／ACSM 運動建議、NHS 姿勢與站立運動衛教、NEJM 太極拳臨床試驗、WHO、NCCIH。",
+      "links": [
+        {
+          "label": "11/19 最新複習：10支 YouTube",
+          "url": "https://kuonanhong.github.io/taichi/community/taichi/lesson5/"
+        },
+        {
+          "label": "太極知識與安全",
+          "url": "https://kuonanhong.github.io/taichi/community/taichi/safety/"
+        },
+        {
+          "label": "坐穩看風景：五支擬真導覽",
+          "url": "https://kuonanhong.github.io/taichi/community/flight/"
+        },
+        {
+          "label": "上課地點：衛武營榕園",
+          "url": "https://maps.app.goo.gl/sEcydLYz2TpnFYwu8?g_st=il"
+        },
+        {
+          "label": "歷史上課影片（YouTube）",
+          "url": "https://kuonanhong.github.io/taichi/video-library/"
+        },
+        {
+          "label": "聰動太極拳：課程與加入方式",
+          "url": "https://kuonanhong.github.io/taichi/community/course/"
+        },
+        {
+          "label": "聰動官網",
+          "url": "https://www.smartaction.org.tw/"
+        },
+        {
+          "label": "聰動 Facebook 粉專",
+          "url": "https://www.facebook.com/smartaction.KS/"
+        },
+        {
+          "label": "加入聰動會員",
+          "url": "https://kuonanhong.github.io/taichi/community/join/"
+        },
+        {
+          "label": "小額捐款",
+          "url": "https://kuonanhong.github.io/taichi/community/support/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "weekday": "二",
+      "time": "10:00",
+      "timezone": "Asia/Taipei",
+      "groupName": "南區群組_鬱金香協會",
+      "header": "聰動衛教｜動得安全，走得穩",
+      "title": "動得安全，走得穩",
+      "textScale": 1.5,
+      "typography": {
+        "header": 21,
+        "title": 30,
+        "body": 24,
+        "source": 18,
+        "button": 24
+      },
+      "hero": {
+        "url": "https://kuonanhong.github.io/taichi/community/education/2026-11/move-safely.jpg",
+        "alt": "長輩慢慢熱身、在穩固椅旁活動，並補水休息的三格插畫",
+        "aspectRatio": "2:1"
+      },
+      "paragraphs": [
+        "給南區鬱金香群組的朋友：規律活動可幫助部分巴金森病友維持平衡與日常功能。開始之前，先選安全環境與適合自己的方式，不必追求動作大或蹲得低。",
+        "① 先暖身，再慢慢動：先做小幅度活動，伸展輕柔，不彈震、不拉痛。膝蓋與腳尖朝同一方向，旁邊保留穩固椅子或扶靠；疼痛、頭暈或站不穩，就先停下來。",
+        "② 居家防跌先整理：走道保持明亮、清空雜物與電線，穿合腳防滑鞋。轉彎分小步慢慢走，避免腳掌固定、身體硬轉；需要時請家人陪伴。",
+        "③ 藥照醫囑，變化記下來：不要自行停藥或改劑量。把藥效較好、動作變慢或不舒服的時間記下，回診時提供醫師參考；活動盡量安排在自己狀況較穩定的時段。",
+        "太極拳是運動與復健的選項之一，不能治癒巴金森病，也不能取代藥物與回診。想開始練習，可先與醫師或物理治療師討論，再依老師指導調整。",
+        "休息時，歡迎坐穩欣賞五支擬真風景導覽；也歡迎了解聰動會員服務、太極課程，以及 12/5 高雄長庚「照亮心方向，與巴金森同行」活動。"
+      ],
+      "dynamicFields": [],
+      "note": "先把安全準備做好，再選一個今天做得到的小步驟。",
+      "source": "聰動官網課程與衛教資訊；Parkinson’s Foundation／ACSM 運動建議、NHS 站立運動衛教、NEJM 太極拳臨床試驗、WHO。",
+      "links": [
+        {
+          "label": "衛教全文：太極知識與安全",
+          "url": "https://kuonanhong.github.io/taichi/community/taichi/safety/"
+        },
+        {
+          "label": "坐穩看風景：五支擬真導覽",
+          "url": "https://kuonanhong.github.io/taichi/community/flight/"
+        },
+        {
+          "label": "加入聰動會員",
+          "url": "https://kuonanhong.github.io/taichi/community/join/"
+        },
+        {
+          "label": "小額捐款",
+          "url": "https://kuonanhong.github.io/taichi/community/support/"
+        },
+        {
+          "label": "12/5 高雄長庚活動與報名",
+          "url": "https://kuonanhong.github.io/taichi/community/events/2026-12-05/"
+        },
+        {
+          "label": "聰動太極拳：課程與加入方式",
+          "url": "https://kuonanhong.github.io/taichi/community/course/"
+        },
+        {
+          "label": "聰動官網",
+          "url": "https://www.smartaction.org.tw/"
+        },
+        {
+          "label": "聰動 Facebook 粉專",
+          "url": "https://www.facebook.com/smartaction.KS/"
+        }
+      ]
+    }
+  ],
+  "lesson5Videos": [
+    {
+      "videoId": "DfaaeJt05fM",
+      "title": "熱身01_修正版",
+      "group": "warmup",
+      "number": 1
+    },
+    {
+      "videoId": "kSCzVl69yHo",
+      "title": "熱身02_修正版",
+      "group": "warmup",
+      "number": 2
+    },
+    {
+      "videoId": "3U3qRSIGYa8",
+      "title": "熱身03_修正版",
+      "group": "warmup",
+      "number": 3
+    },
+    {
+      "videoId": "emtFAWS5m88",
+      "title": "熱身04_修正版",
+      "group": "warmup",
+      "number": 4
+    },
+    {
+      "videoId": "IMwi6lx_-bo",
+      "title": "熱身05_修正版",
+      "group": "warmup",
+      "number": 5
+    },
+    {
+      "videoId": "9NR4UFVXtvs",
+      "title": "熱身06_修正版",
+      "group": "warmup",
+      "number": 6
+    },
+    {
+      "videoId": "miMQK3ef4Cw",
+      "title": "攬鵲尾01_修正版",
+      "group": "grasp-tail",
+      "number": 1
+    },
+    {
+      "videoId": "7FeJYr2AkfI",
+      "title": "攬鵲尾02_修正版",
+      "group": "grasp-tail",
+      "number": 2
+    },
+    {
+      "videoId": "6l2WI8vGWgA",
+      "title": "攬鵲尾03_修正版",
+      "group": "grasp-tail",
+      "number": 3
+    },
+    {
+      "videoId": "sQB6ARR1jhk",
+      "title": "攬鵲尾04_修正版",
+      "group": "grasp-tail",
+      "number": 4
+    }
+  ],
+  "flightVideos": [
+    {
+      "videoId": "uR9d0XNy_Jo",
+      "title": "蒜頭生態公園｜自然土地深呼吸",
+      "description": "沿著土地與綠意的合成視角，慢慢欣賞蒜頭生態公園周邊風景。"
+    },
+    {
+      "videoId": "jm_dacv3ymM",
+      "title": "蒜頭｜歷史五分車",
+      "description": "以擬真地景導覽的方式，認識蒜頭與五分車的歷史場景。"
+    },
+    {
+      "videoId": "VEcIr-5vxl0",
+      "title": "太魯閣｜自然：海平面到三千公尺",
+      "description": "從不同高度的合成視角，觀察太魯閣的地形起伏。"
+    },
+    {
+      "videoId": "F1oDwqgg9zM",
+      "title": "太魯閣｜地理：立霧溪",
+      "description": "沿立霧溪的地形與流域視角，欣賞山谷的尺度。"
+    },
+    {
+      "videoId": "ZTZKqQ_TdCc",
+      "title": "日月潭伊達邵｜人文：湖邊的人",
+      "description": "以湖岸地景為線索，走近伊達邵的人文主題。"
+    }
+  ],
+  "medicalSources": [
+    {
+      "label": "Parkinson’s Foundation／ACSM：巴金森運動建議",
+      "url": "https://www.parkinson.org/sites/default/files/documents/parkinsons_exercise_recommendations_infographic_2025.pdf"
+    },
+    {
+      "label": "NHS Sussex：站立運動與膝蓋方向",
+      "url": "https://www.uhsussex.nhs.uk/resources/standing-exercises/"
+    },
+    {
+      "label": "NHS Scotland：骨盆中立與姿勢照護",
+      "url": "https://www.nes.scot.nhs.uk/media/dzwncusg/postural_care_learning_byte.pdf"
+    },
+    {
+      "label": "NEJM 原始隨機試驗：太極與巴金森病姿勢穩定",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3285459/"
+    },
+    {
+      "label": "WHO：巴金森病",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/parkinson-disease"
+    },
+    {
+      "label": "NCCIH：氣功的研究與證據限制",
+      "url": "https://www.nccih.nih.gov/health/qigong-what-you-need-to-know"
+    }
+  ]
+}
