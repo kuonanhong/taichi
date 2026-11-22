@@ -1,0 +1,135 @@
+1
+00:00:04,016 --> 00:00:09,360
+Pending confirmation
+
+2
+00:00:14,320 --> 00:00:16,752
+Pending confirmation
+
+3
+00:00:19,056 --> 00:00:31,056
+Pending confirmation
+
+4
+00:00:31,056 --> 00:00:36,016
+Pending confirmation
+
+5
+00:00:38,736 --> 00:00:50,736
+Pending confirmation
+
+6
+00:00:50,736 --> 00:01:02,736
+Pending confirmation
+
+7
+00:01:02,736 --> 00:01:14,736
+Pending confirmation
+
+8
+00:01:14,736 --> 00:01:19,504
+Pending confirmation
+
+9
+00:01:23,632 --> 00:01:35,632
+Pending confirmation
+
+10
+00:01:35,632 --> 00:01:47,632
+Pending confirmation
+
+11
+00:01:47,632 --> 00:01:49,072
+Pending confirmation
+
+12
+00:01:52,464 --> 00:02:04,464
+Pending confirmation
+
+13
+00:02:04,464 --> 00:02:16,464
+Pending confirmation
+
+14
+00:02:16,464 --> 00:02:23,536
+Pending confirmation
+
+15
+00:02:26,736 --> 00:02:38,736
+Pending confirmation
+
+16
+00:02:38,736 --> 00:02:43,152
+Pending confirmation
+
+17
+00:02:44,912 --> 00:02:47,024
+Pending confirmation
+
+18
+00:02:51,568 --> 00:03:03,568
+Pending confirmation
+
+19
+00:03:03,568 --> 00:03:15,568
+Pending confirmation
+
+20
+00:03:15,568 --> 00:03:23,088
+Pending confirmation
+
+21
+00:03:25,872 --> 00:03:37,872
+Pending confirmation
+
+22
+00:03:37,872 --> 00:03:49,872
+Pending confirmation
+
+23
+00:03:49,872 --> 00:04:01,872
+Pending confirmation
+
+24
+00:04:01,872 --> 00:04:13,104
+Pending confirmation
+
+25
+00:04:16,016 --> 00:04:28,016
+Pending confirmation
+
+26
+00:04:28,016 --> 00:04:40,016
+Pending confirmation
+
+27
+00:04:40,016 --> 00:04:52,016
+Pending confirmation
+
+28
+00:04:52,016 --> 00:05:04,016
+Pending confirmation
+
+29
+00:05:04,016 --> 00:05:16,016
+Pending confirmation
+
+30
+00:05:16,016 --> 00:05:28,016
+Pending confirmation
+
+31
+00:05:28,016 --> 00:05:40,016
+Pending confirmation
+
+32
+00:05:40,016 --> 00:05:52,016
+Pending confirmation
+
+33
+00:05:52,016 --> 00:06:04,016
+Pending confirmation
+
+34
+00:06:04,016 --> 00:06:09,728
+Pending confirmation

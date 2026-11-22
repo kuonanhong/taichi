@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:01,584
+Pending confirmation
+
+2
+00:00:03,952 --> 00:00:05,808
+Pending confirmation
+
+3
+00:00:10,832 --> 00:00:15,536
+Pending confirmation
+
+4
+00:00:19,120 --> 00:00:20,592
+Pending confirmation
+
+5
+00:00:22,000 --> 00:00:27,920
+Pending confirmation
+
+6
+00:00:31,056 --> 00:00:36,560
+Pending confirmation
+
+7
+00:00:38,256 --> 00:00:39,152
+Pending confirmation
+
+8
+00:00:41,520 --> 00:00:45,120
+Pending confirmation

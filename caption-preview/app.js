@@ -202,6 +202,7 @@ fetch('captions.json', {cache: 'no-store'}).then(response => { if (!response.ok)
   const processed = data.stats?.primaryCompleted, compared = data.stats?.comparisonCompleted;
   const progress = Number.isFinite(processed) ? ` 主轉錄 ${processed} / ${data.videos.length}` + (Number.isFinite(compared) ? `；第二輪比對 ${compared} / ${data.videos.length}` : '') + '。' : '';
   $('loadStatus').textContent = `已載入 ${data.videos.length} 支影片；${pending} 段仍待確認。` + progress;
+  if (data.stats?.asrWorkComplete && data.stats.draftCues === 0 && !data.stats.partialCues) $('loadStatus').textContent += ' 目前尚未取得可靠字幕文字，所有段落仍需核對原音。';
   const categories = new Map(); for (const video of data.videos) categories.set(categoryKey(video), categoryTitle(video));
   for (const [key, title] of categories) { const option = node('option', '', title); option.value = key; $('category').append(option); }
   selectVideo(new URL(location.href).searchParams.get('v') || data.videos[0].videoId);
